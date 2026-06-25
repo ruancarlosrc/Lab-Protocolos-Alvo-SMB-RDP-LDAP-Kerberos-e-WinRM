@@ -1,4 +1,4 @@
-Lab: Protocolos-Alvo — SMB, RDP, LDAP, Kerberos e WinRM
+# Lab: Protocolos-Alvo — SMB, RDP, LDAP, Kerberos e WinRM
 
 > **Categoria:** Active Directory Security | Lateral Movement | Credential Attacks  
 > **Nível:** Blue Team Jr. / SOC Analyst  
