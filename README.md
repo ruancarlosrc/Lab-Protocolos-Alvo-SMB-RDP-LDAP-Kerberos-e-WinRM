@@ -1,0 +1,1 @@
+# Lab-Protocolos-Alvo-SMB-RDP-LDAP-Kerberos-e-WinRM
